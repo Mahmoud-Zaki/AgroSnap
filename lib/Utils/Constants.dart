@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Constants {
-  //static const String baseURL = "https://agrotestsnap.herokuapp.com/";
-  static const String baseURL = "http://192.168.1.12:5000/";
+  static const String baseURL = "";
 
   static const Color primaryColor = Color(0xff496973);
   static const Color secondaryColor = Color(0xff5C808B);
